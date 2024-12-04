@@ -32,8 +32,8 @@ devDependencies:
     specifier: 4.1.2
     version: 4.1.2
   prettier:
-    specifier: 3.0.0
-    version: 3.0.0
+    specifier: 3.4.2
+    version: 3.4.2
   tsup:
     specifier: 7.1.0
     version: 7.1.0(typescript@5.1.6)
@@ -1067,8 +1067,8 @@ packages:
       source-map-js: 1.0.2
     dev: true
 
-  /prettier@3.0.0:
-    resolution: {integrity: sha512-zBf5eHpwHOGPC47h0zrPyNn+eAEIdEzfywMoYn2XPi0P44Zp0tSq64rq0xAREh4auw2cJZHo9QUob+NqCQky4g==}
+  /prettier@3.4.2:
+    resolution: {integrity: sha512-e9MewbtFo+Fevyuxn/4rrcDAaq0IYxPGLvObpQjiZBMAzB9IGmzlnG9RZy3FFas+eBMu2vA0CszMeduow5dIuQ==}
     engines: {node: '>=14'}
     hasBin: true
     dev: true
